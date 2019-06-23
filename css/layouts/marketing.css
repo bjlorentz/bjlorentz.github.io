@@ -284,3 +284,14 @@ a.pure-button-primary {
         font-size: 300%;
     }
 }
+
+@media only screen and (max-height: 600px) {
+    .splash {
+        width: 50%;
+        height: 50%;
+    }
+    img {
+        width: 100px;
+        height: 100px;
+    }
+  }

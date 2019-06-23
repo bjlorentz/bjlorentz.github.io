@@ -4,6 +4,13 @@
     width: 250px;
   }
 
+@media only screen and (max-height: 780px) {
+    .dot{
+        height: 100px;
+        width: 100px;
+    }
+}
+
 dt {
     font-weight: bold;
 }
