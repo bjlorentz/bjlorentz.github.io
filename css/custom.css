@@ -1,0 +1,13 @@
+.dot {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+  }
+
+dt {
+    font-weight: bold;
+}
+
+.w3-padding-custom {
+    padding: 5px;
+}
